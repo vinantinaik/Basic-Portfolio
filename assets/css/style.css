@@ -2,8 +2,12 @@
 	background-color:lightgray;
 	border: 2px;
 	border-color: #dddddd;
-	padding: 40px;
+	padding-left: 40px;
+	padding-top:40px;
+	padding-bottom:40px;
+	padding-right:400px;
 	height: 70%;
+	width: 960px;
 }
 
 h1{
@@ -59,8 +63,9 @@ padding: 0;
 	border: solid;
 	border-color: #cccccc;
 	background-color: #ffffff;
-	width: 700px;
-	height:300px;
+	width: 650px;
+	height:320px;
+	padding-right:0;
 	
 	}
 
@@ -70,13 +75,21 @@ padding: 0;
 	border-color: #cccccc;
 	background-color: #ffffff;
 	height: 140px;
-	width: 392px;
+	width: 270px;
+}
+
+.detail a {
+
+	margin:25px;
+	text-decoration: none;
 }
 
 
 h1{
 	color: #4aaaa5;
 	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-left:20px;
+	padding: 20px;
 
 }
 
@@ -99,6 +112,7 @@ h1{
 	height: 50px;
 	margin-top: -50px;
 	text-align: center;
+
 	
 	
 }
@@ -136,4 +150,10 @@ form .button{
 	
   left         : 440px;
   top          : 360px;
+}
+
+.portfolio{
+	margin: 10px;
+	width:100px;
+	height:100px;
 }
