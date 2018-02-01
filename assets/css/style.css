@@ -1,0 +1,139 @@
+.wrapper{
+	background-color:lightgray;
+	border: 2px;
+	border-color: #dddddd;
+	padding: 40px;
+	height: 70%;
+}
+
+h1{
+	padding: 10px;
+}
+p{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+}
+
+.header{
+	border: 1px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-color: #ffffff;
+	border-color: #cccccc;
+	height: 55px;
+}
+.header h1{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	float: left;
+	padding: 25px;
+	width:130px;
+	height:5px;
+	margin-left:40px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+
+}
+
+.navBar{
+	float: right;
+}
+
+.navBar ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.navBar ul li{
+	float: left;
+	padding: 8px;
+	margin-right: 10px;
+}
+
+.navBar ul a{
+	display: block;
+	text-decoration: none;
+}
+
+.main{
+	float: left;
+	border: solid;
+	border-color: #cccccc;
+	background-color: #ffffff;
+	width: 700px;
+	height:300px;
+	
+	}
+
+.detail{
+	float: right;
+	border: solid;
+	border-color: #cccccc;
+	background-color: #ffffff;
+	height: 140px;
+	width: 392px;
+}
+
+
+h1{
+	color: #4aaaa5;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.connect{
+	padding: 20px;
+	width: 45%;
+	
+}
+
+.connect a img{
+	
+	display:inline-block;
+	
+}
+
+.footer{
+	clear: both;
+	background-color: #666666;
+	height: 50px;
+	margin-top: -50px;
+	text-align: center;
+	
+	
+}
+
+#myPortfolioImg{
+	
+	width: 200px;
+	height: 200px;
+	float: left;
+	padding: 10px;
+	
+}
+
+form{
+	position: relative;
+	padding: 20px;
+	margin : 0 auto;
+	background: #FFF url(background.jpg);
+}
+
+.inputText{
+	width: 400px;
+	margin: 5px;
+	
+}
+
+textarea{
+	width: 400px;
+	height:50px;
+	margin: 5px;
+}
+
+form .button{
+	padding: 5px;
+	
+  left         : 440px;
+  top          : 360px;
+}
